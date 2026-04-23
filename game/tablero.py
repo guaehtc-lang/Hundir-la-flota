@@ -24,7 +24,7 @@ def mostrar_tablero_oculto(tablero):
         
         print(" | ".join(fila_visible))
 
-# Prueba
+#Prueba
 #tablero = crear_tablero()
 #mostrar_tablero(tablero)
 #mostrar_tablero_oculto(tablero)

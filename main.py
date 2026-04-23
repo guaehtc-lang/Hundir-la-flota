@@ -65,7 +65,7 @@ while True:
         print("Has acertado, dispara otra vez")
         continue
 
-# Si llega aquí → agua
+# Si llega aquí → agua, cambia jugador, disparo IA
     print("Turno de la IA")
     
     fila_ia, columna_ia = disparo_ia()
